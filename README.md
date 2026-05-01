@@ -25,3 +25,13 @@ resource utilization, and lab performance — with validated, consistent data ac
 - Doctor utilization rate (by department)
 - Lab result turnaround time
 
+## Screenshots
+
+### Power BI Dashboard
+![Power BI Dashboard](powerbi-dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](tableau-dashboard.png)
+
+### Excel Dashboard
+![Excel Dashboard](excel-dashboard.png)
