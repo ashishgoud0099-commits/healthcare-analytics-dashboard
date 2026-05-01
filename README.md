@@ -24,4 +24,4 @@ resource utilization, and lab performance — with validated, consistent data ac
 - Patient visit volume (daily / monthly trend)
 - Doctor utilization rate (by department)
 - Lab result turnaround time
-- Bed occupancy ra
+
